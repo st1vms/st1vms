@@ -2,14 +2,14 @@
 
 ### 🇮🇹 Hi I'm Steve 🇮🇹 
 
+I am a software developer, with a bachelor's degree in computer engineering
+
 During my learning journey in software development: 
 - I worked with C for embedded IoT devices and system programming. 
 - I learned Python, which became very useful for rapid prototyping and creating automation tools on the go.
 - I also learned Android development in Java, creating a smart home application to control many light bulbs over LAN, without communicating with external servers.
 - I worked extensively with Windows and Linux based desktop systems.
 - I researched some of the fundamental concepts of cybersecurity during my journey at university, HTB, PicoCTF...
-
-I almost completed my degree in software engineering, while programming as a freelancer.
 
 I hope that any of my open source projects can make someone's life a little easier.
 
