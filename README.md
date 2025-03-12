@@ -1,5 +1,3 @@
-## [![](https://visitcount.itsvg.in/api?id=st1vms&icon=5&color=1)](https://visitcount.itsvg.in)
-
 ### 🇮🇹 Hi I'm Steve 🇮🇹 
 
 I am a software developer, with a bachelor's degree in computer engineering
