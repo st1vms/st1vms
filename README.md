@@ -1,17 +1,19 @@
 ### 🇮🇹 Hi I'm Steve 🇮🇹 
 
-I am a software developer, with a bachelor's degree in computer engineering
+Software developer with a Bachelor's Degree in Computer Engineering, experienced in Android App Development, desktop software, embedded systems, system administration and cybersecurity. 
+I have worked as a freelancer on Web Scraping, Data Mining and AI projects, actively contributing to open source projects; currently enrolled as an Apprentice Programmer Technician at SCAEM, where I develop innovative solutions for management software. 
 
-During my learning journey in software development: 
-- I worked with C for embedded IoT devices and system programming. 
-- I learned Python, which became very useful for rapid prototyping and creating automation tools on the go.
-- I also learned Android development in Java, creating a smart home application to control many light bulbs over LAN, without communicating with external servers.
-- I worked extensively with Windows and Linux based desktop systems.
-- I researched some of the fundamental concepts of cybersecurity during my journey at university, HTB, PicoCTF...
+During my learning journey as a freelance software developer: 
+- I have developed countless Desktop applications with Python and C, worked in the development of Social Bots for various platforms (Twitch, Discord, Telegram, etc...).
+- I have extensively worked and gained experience in the field of Data-Mining & Web-Scraping in Python.
+- I have programmed embedded systems (Arduino, ESP8266) developing in C a firmware for IoT lamps,
+with an attached Android application written in Java, and application network protocols written from 0.
+- I have worked as a virtual-assistant and prompt-developer, for the implementation and use of AI-based software (GPT, StableDiffusion, Claude, etc...).
+- In my free time I tried some game development in Pygame and Unity with C#, I also dedicated myself to the study of cyber-security, systems engineering, and data-science.
 
 I hope that any of my open source projects can make someone's life a little easier.
 
-Any donation will be appreciated and will make my life easier too...
+Any donation is not needed, but really appreciated : )
 
 
 ## 🌐 Socials:
