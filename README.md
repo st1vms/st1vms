@@ -9,7 +9,7 @@ During my learning journey as a freelance software developer:
 - I have programmed embedded systems (Arduino, ESP8266) developing in C a firmware for IoT lamps,
 with an attached Android application written in Java, and application network protocols written from 0.
 - I have worked as a virtual-assistant and prompt-developer, for the implementation and use of AI-based software (GPT, StableDiffusion, Claude, etc...).
-- In my free time I tried some game development in Pygame and Unity with C#, I also dedicated myself to the study of cyber-security, systems engineering, and data-science.
+- In my free time I tried some game development in Pygame and Unity with C#, I also dedicated myself to the study of cyber-security, systems administration, and data-science.
 
 I hope that any of my open source projects can make someone's life a little easier.
 
