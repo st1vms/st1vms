@@ -1,4 +1,4 @@
-### 🇮🇹 Hi I'm Steve 🇮🇹 
+### Hi I'm Steve
 
 Software developer with a Bachelor's Degree in Computer Engineering, experienced in Android App Development, desktop software, embedded systems, system administration and cybersecurity. 
 I have worked as a freelancer on Web Scraping, Data Mining and AI projects, actively contributing to open source projects; currently enrolled as an Apprentice Programmer Technician at SCAEM, where I develop innovative solutions for management software. 
