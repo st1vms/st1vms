@@ -4,7 +4,7 @@ Software developer with a Bachelor's Degree in Computer Engineering, experienced
 I have worked as a freelancer on Web Scraping, Data Mining and AI projects, actively contributing to open source projects; currently enrolled as an Apprentice Programmer Technician at SCAEM, where I develop innovative solutions for management software. 
 
 During my learning journey as a freelance software developer: 
-- I have developed countless Desktop applications with Python, worked in the development of Social Bots for various platforms (Twitch, Discord, Telegram, etc...).
+- I have developed many Desktop applications with Python, worked in the development of Social Bots for various platforms (Twitch, Discord, Telegram, etc...).
 - I have extensively worked and gained experience in the field of Data-Mining & Web-Scraping in Python.
 - I have programmed embedded systems (Arduino, ESP8266) developing in C a firmware for IoT lamps,
 with an attached Android application written in Java, and application network protocols written from 0.
