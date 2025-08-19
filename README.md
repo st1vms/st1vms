@@ -35,5 +35,3 @@ I hope that any of my open source projects can make someone's life a little easi
 </picture>
 
 https://github.com/st1vms/PongSVG
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/st1vms) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/StefanoRaneri)
