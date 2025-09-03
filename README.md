@@ -3,14 +3,6 @@
 Software developer with a Bachelor's Degree in Computer Engineering, experienced in Android App Development, desktop software, embedded systems, system administration and cybersecurity. 
 I have worked as a freelancer on Web Scraping, Data Mining and AI projects, actively contributing to open source projects; currently enrolled as an Apprentice Programmer Technician at SCAEM, where I develop innovative solutions for management software. 
 
-During my learning journey as a freelance software developer: 
-- I have developed many Desktop applications with Python, worked in the development of Social Bots for various platforms (Twitch, Discord, Telegram, etc...).
-- I have extensively worked and gained experience in the field of Data-Mining & Web-Scraping in Python.
-- I have programmed embedded systems (Arduino, ESP8266) developing in C a firmware for IoT lamps,
-with an attached Android application written in Java, and application network protocols written from 0.
-- I have worked as a virtual-assistant and prompt-developer, for the implementation and use of AI-based software (GPT, StableDiffusion, Claude, etc...).
-- In my free time I tried some game development in Pygame and Unity with C#, I also dedicated myself to the study of cyber-security, systems administration, and data-science.
-
 I hope that any of my open source projects can make someone's life a little easier.
 
 
