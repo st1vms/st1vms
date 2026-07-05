@@ -11,8 +11,7 @@ I hope that any of my open source projects can make someone's life a little easi
 
 
 
-## Check out this Pong SVG generator as a GitHub action that plays with follower avatars: 
-
+## Check out this Pong SVG generator as a GitHub action that plays with follower avatars
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/pong_dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="images/pong_light.svg" />
@@ -20,3 +19,5 @@ I hope that any of my open source projects can make someone's life a little easi
 </picture>
 
 https://github.com/st1vms/PongSVG
+
+A new game is released every week, with an avatar chosen randomly from my followers; be sure to follow me to be featured in the game :)
