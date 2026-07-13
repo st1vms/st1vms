@@ -1,6 +1,6 @@
 ### Hi I'm Steve
 
-Software developer with experience in full-stack web development, native Android applications, embedded systems, and data mining. As a technical programmer apprentice at SCAEM, I contribute to the design and development of innovative management software solutions for the automotive inspection industry.
+Software developer with experience in full-stack web development, native Android applications, embedded systems, and data mining.
 
 I hope that any of my open source projects can make someone's life a little easier.
 
