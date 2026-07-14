@@ -20,4 +20,4 @@ I hope that any of my open source projects can make someone's life a little easi
 
 https://github.com/st1vms/PongSVG
 
-A new game is released every week, with an avatar chosen randomly from my followers; be sure to follow me to be featured in the game :)
+A new game is released every day, with an avatar chosen randomly from my followers; be sure to follow me to be featured in the game :)
