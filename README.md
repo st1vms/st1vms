@@ -12,10 +12,10 @@ I hope that any of my open source projects can make someone's life a little easi
 
 
 ## Check out this Pong SVG generator as a GitHub action that plays with follower avatars
-<picture>
+<picture style="width: 100%;">
   <source media="(prefers-color-scheme: dark)" srcset="images/pong_dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="images/pong_light.svg" />
-  <img alt="Pong Game Animation" src="images/pong_light.svg" />
+  <img alt="Pong Game Animation" src="images/pong_light.svg" style="width: 100%; height: auto;"/>
 </picture>
 
 https://github.com/st1vms/PongSVG
